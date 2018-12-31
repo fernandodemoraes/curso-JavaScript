@@ -1,3 +1,3 @@
 # curso-JavaScript
 
-Aplicação web simples para inclusão de tarefas usando JavaScript. As tarefas são salvas em local storage.
+Aplicação web para inclusão de tarefas usando JavaScript. As tarefas são salvas em local storage.
